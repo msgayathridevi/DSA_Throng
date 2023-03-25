@@ -1,6 +1,9 @@
-Linear Search
+Sequential Search
+    Linear Search
+Interval Search
+    Binary Search
+    
 Sentinel Linear Search
-Binary Search
 Meta Binary Search | One-Sided Binary Search
 Ternary Search
 Jump Search
